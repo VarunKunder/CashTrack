@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:hint="Participant Name"
+    android:textColorHint="@color/text_secondary"
+    app:boxStrokeColor="@color/accent_yellow"
+    app:hintTextColor="@color/accent_yellow">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/etParticipantName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white" />
+
+</com.google.android.material.textfield.TextInputLayout>
