@@ -53,7 +53,7 @@ Whether you're budgeting for yourself or sharing expenses on a trip, CashTrack m
 
 | Dashboard | Add Expense | Trip Split |
 |------------|--------------|-------------|
-| ![Dashboard](assets/dashboard.png) | ![Add Expense](assets/add_expense.png) | ![Trip Split](assets/trip_split.png) |
+| ![Dashboard](assets/dashboard.jpeg) | ![Add Expense](assets/add_expense.jpeg) | ![Trip Split](assets/trip_split.jpeg) |
 
 ---
 
